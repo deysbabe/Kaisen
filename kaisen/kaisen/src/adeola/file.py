@@ -7,5 +7,9 @@ def result(a,b):
 print(result(10,5))
 
 
+def item (b,d):
+    item = b*d
+    return item
+print (item (3,4))
 
 #Function that calls another function
